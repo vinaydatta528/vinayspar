@@ -1,0 +1,280 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width:1301px) {
+
+.head_sub{ width:98%;}
+.menu_sub{ width:100%;}
+.cont_sal {    margin: 6px 5px 0px 5px;}
+.foot_sub{ width:98%;}
+.copy_sub{width:98%;}
+}
+@media screen and (max-width:1201px) {
+}
+@media screen and (max-width:1101px) {
+.welcome_sub{ width:98%;}
+.body_sub{ width:100%;}
+.price_sub{ width:98%;}
+.try_sub { width:98%;}
+.foot_sub{ width:98%;}
+.twit {    width: 76%;}
+}
+@media screen and (max-width:978px) {
+	.data_text_r {padding: 28px 0px 0px 0px;     width: 74%;}
+	.data_img_l img {
+    width: 192px;}
+	.data_text_l {padding: 28px 0px 0px 0px;     width: 74%;}
+	.data_img_r img {
+    width: 192px;}
+	.text_qb {     font-size: 15px;}
+	.text_qs {    font-size: 14px;
+    margin: 0px 0px 16px 20px;}
+	.twit_data {
+    font-size: 12px;}
+	.twit {
+    width: 70%;
+}
+.foot_data {
+    padding: 32px 0px 36px 3px;
+}
+.foot_head {
+    font-size: 12px;
+    padding: 0px 0px 16px 0px;
+}
+.spar_data {
+    font-size: 12px;
+    line-height: 14px;}
+	.foot_menu ul li a {
+    line-height: 14px;
+    font-size: 12px;}
+}
+
+@media screen and (max-width:768px) {
+	.spar_logo {    font-size: 20px;     padding: 2px 0px 0px 6px;}
+	.logo img {
+    width: 36px;
+    height: 36px;
+}
+.data_text_r {    padding: 16px 0px 0px 0px;
+   }
+.data_img_l img {
+    width: 166px;
+    height: 166px;
+}
+
+.data_text_1 {    padding: 16px 0px 0px 0px;
+   }
+.data_img_r img {
+    width: 166px;
+    height: 166px;
+}
+.text_b {font-size: 12px;padding: 5px 0px 0px 0px;}
+.text_a {    font-size: 19px;}
+.button_search {width: 154px;}
+.head_right {    margin: 5px 0px 0px 0px;}
+.sign_in {
+    margin: 10px 0px 0px 0px;
+}
+.sign_in a {    font-size: 11px;}
+.try_free {
+    padding: 4px 5px 4px 5px;
+    font-size: 10px;}
+.cont_sal {  padding: 4px 5px 4px 5px;
+    font-size: 10px;}
+.menu ul li a {
+	    padding: 10px 9px;
+    font-size: 11px;}
+.logo img {
+    width: 36px;
+    height: 36px;
+}
+.spar_logo {font-size: 18px;}
+.button_search {    height: 36px;
+    padding: 0px 0px 0px 52px;
+    width: 118px;
+	background-position: 17px center;
+}
+.wel_text {font-size: 19px;    padding: 20px 0px 2px 0px;}
+.exp_text {    padding: 4px 0px 14px 0px; font-size:18px;    line-height: 20px;}
+.price_des {     line-height: 15px;    font-size: 13px;}
+.text_price {    padding: 40px 0px 0px 0px;    font-size: 20px;}
+}
+@media screen and (max-width:767px) {
+.twit {
+    width: 80%;
+}
+.spar_data {    padding: 0px 0px 18px 0px;}
+.foot_head {
+    padding: 0px 0px 6px 0px;
+}
+.foot_data {
+   padding: 22px 0px 12px 3px;
+}
+.logo_img1 img {
+    width: 40px;
+    height: 40px;
+}
+.foot_menu ul li {padding: 0px 0px 6px 0px;}
+}
+
+@media screen and (max-width:734px) { 
+.text_qs {
+    font-size: 11px;
+    margin: 0px 0px 16px 11px;
+}
+.text_qb {
+    font-size: 13px;
+  
+}
+
+}
+@media screen and (max-width:658px) {
+	.data_text_r { float:none; width:99%; margin:0px auto;     padding: 4px 0px 0px 0px;}
+	.data_img_l {
+    width: 166px;
+    float: none;
+    margin: 0px auto;
+}
+
+	.data_text_l { float:none; width:99%; margin:0px auto;     padding: 4px 0px 0px 0px;}
+	.data_img_r {
+    width: 166px;
+    float: none;
+    margin: 0px auto;
+}
+	
+}
+@media screen and (max-width:598px) {
+.button_search {
+    padding: 0px 0px 0px 40px;
+    width: 96px;
+    background-position: 8px center;
+}
+.menu ul li a {
+    padding: 10px 5px;
+    font-size: 10px;
+}
+.try_free {
+    padding: 4px 3px 4px 3px;
+    font-size: 9px;
+}
+.cont_sal {
+    padding: 4px 3px 4px 3px;
+    font-size: 9px;
+}
+.text_a {
+    font-size: 17px;
+}
+.data_img_l img {
+    width: 140px;
+    height: 140px;
+}
+.data_img_r img {
+    width: 140px;
+    height: 140px;
+}
+.text_qs {
+    margin: 0px 0px 16px 5px;
+}
+.text_qb {
+
+}
+}
+
+@media screen and (max-width:478px) {
+.button_search { display:none;}
+.search_resp{  float:left;     padding: 6px 0px; display:block;}
+.search_resp img { width:24px; height:24px;}
+.spar_logo {
+    font-size: 16px;
+}
+.logo img {
+    width: 30px;
+    height: 30px;
+}
+.sign_in a {margin: 8px 9px;}
+
+	.menu{display:none;}
+	.menu_res {
+		display:block;
+    	float:left;
+		width:30px;
+		height:30px;
+		background-image:url(../images/menu-icon.png);
+		background-repeat:no-repeat;
+		background-position:right center;
+		 margin: 1px 6px 3px 0px;
+		z-index:4;
+		position:relative;
+	}
+	.menu_res_x {
+    display:none;
+    float: left;
+    width: 30px;
+    height: 30px;
+    background-image:url(../images/menu-icon1.png);
+    background-repeat: no-repeat;
+    background-position: right center;
+    margin: 8px 0px 3px 6px;
+    z-index: 6;
+    position: fixed;    top: 6px;
+}
+.menu_res_det
+{   width: 250px;
+	height:100%;
+	background-color: #cccccc;
+	display:none;
+	z-index:7;
+	position:fixed;
+    top: 54px;
+	transform: scale(1);
+    -ms-transform: scale(1);
+    -moz-transform: scale(1);
+    }
+.menu_res_det ul{ padding:0px; margin:0px} 
+.menu_res_det ul li {  
+display:block;
+	float:none;
+	list-style:none;
+	font-size:14px;
+	color:#fff;
+	font-weight:bold; 
+	border-bottom:1px solid #c1c1c1;
+	}
+.menu_res_det ul li a{ 	      padding: 10px 15px 10px 15px;
+text-align:center;
+	display:block;
+	text-decoration:none;
+	color:#FFF;
+	-moz-transition:background-color:#B4B4B4 0.6s ease;
+	-webkit-transition:background-color:#B4B4B4 0.6s ease;
+	transition:background-color:#B4B4B4 0.6s ease;
+	font-family:"Myriad Pro", sans-serif;
+	background-color:#b1b1b1;
+	font-weight:normal;  } 
+.menu_res_det ul li a:hover{  transition:0.5s; background-color:#999; color: #000; }
+.menu_list ul li { margin: 38px 8px 0px 8px;}
+.wel_text {font-size: 17px;  padding: 6px 0px 2px 0px;}
+.exp_text {padding: 4px 0px 10px 0px; font-size: 14px;}
+.stat_dt {width:100%;}
+.text_b {
+    font-size: 11px;
+    line-height: 16px;}
+.text_a {
+    font-size: 14px;
+	line-height:17px;
+}
+.text_qs {
+    font-size: 13px;
+    margin: 0px 0px 16px 11px;
+}
+.text_qb {
+    font-size: 15px;
+   
+}
+}
+
+@media screen and (max-width:372px) {
+	.spar_logo {
+    font-size: 14px;
+}
+}
